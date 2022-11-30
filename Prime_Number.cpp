@@ -1,3 +1,4 @@
+/*This program finds prime number*/
 #include<iostream>
 using namespace std;
 bool prime(int a)
