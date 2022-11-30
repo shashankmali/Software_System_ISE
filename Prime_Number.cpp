@@ -1,11 +1,11 @@
 /*This program finds prime number*/
 #include<iostream>
 using namespace std;
-bool prime(int a)
+bool prime(int b)
 {  
    for(int i=2;i<=a/2;i++)
    {   
-     if(a%i==0)
+     if(b%i==0)
      {
         return 0;
         break;
